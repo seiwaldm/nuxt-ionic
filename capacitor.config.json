@@ -1,0 +1,6 @@
+{
+  "appId": "club.seiwald.nuxt-ionic",
+  "appName": "nuxt-ionic",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
